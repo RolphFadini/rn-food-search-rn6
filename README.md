@@ -24,7 +24,7 @@ Users can also tap on any restaurant to view a detailed screen that includes:
 ### 2. Rename the env.example for `.env` and add your Yelp API key
 - you can get an API key from [Yelp Fusion](https://business.yelp.com/data/products/fusion/)
 
-### 3. Run the command npm install to install the required packages, including:
+### 3. Run the command `npm install` to install the required packages, including:
 - `axios` – HTTP client used to connect with the Yelp API
 - `@react-navigation/native` and `@react-navigation/stack` – for navigating between screens
 - `dotenv` – loads environment variables from `.env` file
